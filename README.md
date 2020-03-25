@@ -17,8 +17,8 @@ The table and graph below describes the statistical property of dataset.
 </div>
  <div align=center>
 Figure 1: Graph of all 15 timeseries
-</div> 
-<br />
+</div>
+
 Train.csv have raw dataset in the interval of 15 minutes. In Intermediate files, the CSV files have dataset in interval of 1 hours. 
 
 ## Methods 
