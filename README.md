@@ -1,8 +1,7 @@
 # Time-Series-Analysis
-Include ARIMA, XGBoost and GRU
 
 ## About Dataset
-The data provided consists of the reading in the main meter and two sub-meters of five buildings from 01-04-2017 to 31-12-2017. The given timestamp is divided into 15-minute intervals. The dataset consists of electricity consumption of five buildings across three different meters for each timestamp. <br \>
+The data provided consists of the reading in the main meter and two sub-meters of five buildings from 01-04-2017 to 31-12-2017. The given timestamp is divided into 15-minute intervals. The dataset consists of electricity consumption of five buildings across three different meters for each timestamp. <br />
 The table and graph below describes the statistical property of dataset.  
 |         | Main Meter | Sub Meter 1   | Sub Meter 2 |
 | ------- | --------   | ------------- | ----------  |
@@ -20,7 +19,7 @@ The table and graph below describes the statistical property of dataset.
 Figure 1: Graph of all 15 timeseries
 </div> 
 
-train.csv have raw dataset in the interval of 15 minutes. In Intermediate files, the CSV files have dataset in interval of 1 hours. 
+Train.csv have raw dataset in the interval of 15 minutes. In Intermediate files, the CSV files have dataset in interval of 1 hours. 
 
 ## Methods 
 
